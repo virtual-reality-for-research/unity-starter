@@ -14,8 +14,14 @@
 
 `git push -u origin master` to push changes to your `master` branch
 
-### Videos (Upload to Youtube)
+### Videos
+
+#### Shot with a 360 Camera
 
 * Follow the instructions [here](https://support.google.com/youtube/answer/6178631?hl=en) to enable your video for 360 viewing.
+
+* Upload to Youtube and add the link to the video in the README.md file
+
+#### Other Videos
 
 * Upload to Youtube and add the link to the video in the README.md file
